@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mods": [
     {"name": "BepInEx", "version": "5.4.21", "url": "https://github.com/nk844/valheim-modpack/releases/download/v1.0.0/BepInEx.zip"},
     {"name": "FineWoodPieces", "version": "0.9.9", "url": "https://github.com/nk844/valheim-modpack/releases/download/v1.0.0/FineWoodPieces.zip"},
